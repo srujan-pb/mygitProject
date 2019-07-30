@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="classes" name="ParallelSuite">
+  <test thread-count="4" parallel="classes" name="ParallelTesting">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification"/>
+      <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication"/>
+      <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication"/>
+      <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication"/>
+    </classes>
+  </test> <!-- ParallelTesting -->
+</suite> <!-- ParallelSuite -->

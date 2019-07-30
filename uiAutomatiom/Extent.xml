@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="FacebookObjectVerification">
+	 <classes>
+	   <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication"/>
+	   <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication"/>
+	    <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication"/>
+	    <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification"/>
+  	   	   
+	 </classes>   
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

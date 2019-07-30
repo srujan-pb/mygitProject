@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Suite">
+ <test name = "FBSignUpPageObjectsVerification">
+ <classes>
+<class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification"/>
+ </classes>
+ </test>
+ 
+  <test name = "FBPeoplePageObjectsVerfication">
+ <classes>
+ <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication"/>
+ </classes>
+ </test>
+ 
+  <test name = "FBInstagramPageObjectsVerfication">
+ <classes>
+ <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication"/>
+ </classes>
+ </test>
+ 
+  <test name = "FBHomePageObjectsVerfication">
+ <classes>
+ <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication"/>
+ </classes>
+ </test>
+ 
+</suite> <!-- Suite -->

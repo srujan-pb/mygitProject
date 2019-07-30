@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test parallel="tests" name="FBPeoplePageObjectsVerfication(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification -->
+      <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="FacebookHomePageObjectsVerfication"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBHomePageObjectsVerfication -->
+    </classes>
+  </test> <!-- FBPeoplePageObjectsVerfication(failed) -->
+  <test parallel="tests" name="FBSignUpPageObjectsVerification(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="LoginTest"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification -->
+      <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBHomePageObjectsVerfication -->
+    </classes>
+  </test> <!-- FBSignUpPageObjectsVerification(failed) -->
+  <test parallel="tests" name="FBHomePageObjectsVerfication(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification -->
+      <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="FacebookHomePageObjectsVerfication"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBHomePageObjectsVerfication -->
+    </classes>
+  </test> <!-- FBHomePageObjectsVerfication(failed) -->
+  <test parallel="tests" name="FBInstagramPageObjectsVerfication(failed)">
+    <classes>
+      <class name="com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="FacebookHomePageObjectsVerfication"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBInstagramPageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBSignUpPageObjectsVerification -->
+      <class name="com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBPeoplePageObjectsVerfication -->
+      <class name="com.uiAutomatiom.testScript.FBHomePageObjectsVerfication">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomatiom.testScript.FBHomePageObjectsVerfication -->
+    </classes>
+  </test> <!-- FBInstagramPageObjectsVerfication(failed) -->
+</suite> <!-- Failed suite [Suite] -->
